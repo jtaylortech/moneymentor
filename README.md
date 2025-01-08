@@ -33,10 +33,10 @@ These services are designed to provide high-value support to our target audience
 - **Session Scheduling**: Manual scheduling with calendar views for convenient planning.
 
 ## Tech Stack
-- **Frontend**: React (Web) and React Native (Mobile)
-- **Backend**: Firebase or Node.js with SQLite
-- **Messaging**: Matrix or Socket.IO
-- **Hosting**: GitHub Pages for the web app
+- **Frontend**: React for Web + React Native for Mobile.
+- **Backend**: Node.js + Firebase (authentication, database, hosting).
+- **Messaging**: Firebase Firestore (MVP)
+- **Hosting**: GitHub Pages (web) + Firebase Hosting (backend/API).
 
 ## Project Goals
 1. Build an MVP that includes:

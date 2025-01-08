@@ -1,7 +1,7 @@
 # Tech Stack
 
 ## Frontend
-**Recommended Option: React (Web) + React Native (Mobile)**  
+**React (Web) + React Native (Mobile)**  
 - **Why**: React provides a scalable and flexible framework with a vast ecosystem. React Native allows for seamless cross-platform mobile app development with shared components, saving time and resources.
 - **Advantages**:
   - Easy to learn and widely adopted.
@@ -11,7 +11,7 @@
 ---
 
 ## Backend
-**Recommended Option: Node.js with Firebase Integration**  
+**Node.js with Firebase Integration**  
 - **Why**: Firebase covers many needs (authentication, database, hosting) in its free tier, making it a cost-effective choice for an MVP. Node.js provides flexibility for custom logic not handled by Firebase.
 - **Advantages**:
   - Firebase simplifies authentication and real-time database integration.
@@ -20,7 +20,7 @@
 ---
 
 ## Messaging
-**Recommended Option: Firebase Firestore**  
+**Firebase Firestore**  
 - **Why**: Firebase Firestore is simple, cost-effective, and integrates seamlessly with Firebase's real-time capabilities. It offers sufficient functionality for MVP chat features while staying within the free tier.
 - **Advantages**:
   - Built-in real-time database support.
@@ -30,7 +30,7 @@
 ---
 
 ## Hosting
-**Recommended Option: GitHub Pages (Web) + Firebase Hosting (APIs)**  
+**GitHub Pages (Web) + Firebase Hosting (APIs)**  
 - **Why**: Both platforms offer robust free tiers that align with the goal of staying cost-effective during MVP development.
 - **Advantages**:
   - **GitHub Pages**: Free, easy to use, integrates seamlessly with React web apps.
